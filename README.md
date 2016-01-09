@@ -1,9 +1,9 @@
 #Source Code Repository for AWS IoT Home Security Model Hardwares
 
-###IoT Home Security Model
+###AWS IoT Home Security Model
 ######A model of home security system that utilized sensors and internet to monitor the security status in real-time.
 
-The difference between this repository and the [original](https://github.com/AaronKow/IoT-Home-Security-Model-HW) is that, this source code is using AWS IoT to communicate the data to the Real-Time Dashboard instead of http. Modification of coding found in IoTHome-Yun folder only. The rest still remain the same.
+The difference between this repository and the [original](https://github.com/AaronKow/IoT-Home-Security-Model-HW) is that, this source code is using AWS IoT to communicate the data to the Real-Time Dashboard instead of "HTTP". Modification of coding can be found in IoTHome-Yun folder only. The rest remain the same as the [original repository](https://github.com/AaronKow/IoT-Home-Security-Model-HW).
 
 
 The hardwares (microcontroller) used in this project are Arduino Yun and Arduino Mega 2560. 
