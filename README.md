@@ -15,7 +15,7 @@ If there is any issue or question about the codes, you can open issue or leave a
 For more detail about this project, please visit [here](https://goo.gl/aZGpg3).
 
 
-### Require Steps
+### Required Steps
 Please follow this steps before compile the code. This source code require the "Modified-DHT-sensor-library" for it as the library. Please follow the pictures below to include it in your Arduino IDE:
 Step 1:
 ![Step 1](https://raw.githubusercontent.com/AaronKow/AWS-IoT-Home-Security-Model-HW/master/Pictures/step1.png)
